@@ -55,9 +55,9 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
+- 👨🏽‍💻 I’m currently an free during this pandemic lmao;
 - 🌱 I’m currently learning Laravel & VueJS; 
-- 🤔 My interests are with all about designs i mean i like ui and ux lol;
+- 🤔 My interests are with front-end & web designing;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via syaokay@gmail.com to reach me.
