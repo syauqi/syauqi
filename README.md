@@ -82,14 +82,11 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 **Most Popular Repositories:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=learnify" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=gameina" />
 </a>
 
-<br />
-
-------------
 
 
