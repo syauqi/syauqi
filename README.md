@@ -55,7 +55,7 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an free during this pandemic lmao;
+- 👨🏽‍💻 I’m currently free during this pandemic lmao;
 - 🌱 I’m currently learning Laravel & VueJS; 
 - 🤔 My interests are with front-end & web designing;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
@@ -65,7 +65,7 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 
 
 **Languages and Tools:**  
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
