@@ -78,7 +78,7 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 ![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=true)
 
 ------------
-
+**Most Popular Repositories:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
@@ -91,4 +91,3 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 
 <br />
 
-⭐️ From [Syauqi](https://github.com/syauqi)
