@@ -47,7 +47,7 @@
 <br />
 <br />
 
-Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid), Devcode 👨🏽‍💻 [@Devcode](https://github.com/devcoderpl), and an Pop Punks Fans 👨🏽‍🎶. 
+Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid), Join my own organization 👨🏽‍💻 [@Devcode](https://github.com/devcoderpl), and an Pop Punks Fans 👨🏽‍🎶. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
