@@ -75,7 +75,6 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=true)
 
 ### Check 🐱‍🏍, Most Popular Repositories:
 
@@ -86,5 +85,5 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=gameina" />
 </a>
 
-
+![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=true)
 
