@@ -51,7 +51,7 @@
 
 Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid), Organizing my own class organization 👨🏽‍💻 [@Devcode](https://github.com/devcoderpl), and an Pop Punks Fans 👨🏽‍🎶. 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
 
 **Talking about Personal Stuffs:**
 
