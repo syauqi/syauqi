@@ -1,7 +1,9 @@
 ### Hey 👋, I'm Syauqi !
 
 ![Profile views](https://gpvc.arturio.dev/syauqi)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=false" />
+
 <a href="https://www.linkedin.com/in/syaufy/">
   <img align="left" alt="Syauqi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
