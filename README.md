@@ -85,7 +85,7 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
  
   </details>
 
-<h3 align="center"> Check 🐱‍🏍, Most Popular Repositories: </h3>
+<h3> Check 🐱‍🏍, Most Popular Repositories: </h3>
 
 <a href="https://github.com/syauqi/learnify">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=learnify" />
