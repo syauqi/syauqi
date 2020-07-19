@@ -78,7 +78,7 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 
 
 <details>
-<summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+<summary> <b> My Github Statistic 🤞 </b> <i>(click to expand!)</i> </summary>
   
  [![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=syauqi)](https://github.com/syauqi/learnify)
  
