@@ -75,15 +75,8 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<h3 align="center"> Check 🤷‍♂️, My Github Stats: </h3>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=false" />
-</p>
-
 <h3 align="center"> Check 🐱‍🏍, Most Popular Repositories: </h3>
 
-<p align="center">
 <a href="https://github.com/syauqi/learnify">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=learnify" />
 </a>
@@ -91,6 +84,11 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 <a href="https://github.com/syauqi/gameina">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=gameina" />
 </a>
+
+<h3 align="center"> Check 🤷‍♂️, My Github Stats: </h3>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=false" />
 </p>
 
 <br />
