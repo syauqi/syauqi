@@ -76,14 +76,16 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### Check 🤷‍♂️, My Github Stats:
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=false" />
+</p>
 
 ### Check 🐱‍🏍, Most Popular Repositories:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/syauqi/learnify">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=learnify" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/syauqi/gameina">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=gameina" />
 </a>
 
