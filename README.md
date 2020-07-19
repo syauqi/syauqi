@@ -1,7 +1,9 @@
 ### Hey 👋, I'm Syauqi !
 
 ![Profile views](https://gpvc.arturio.dev/syauqi)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=false" />
+</p>
 <a href="https://www.linkedin.com/in/syaufy/">
   <img align="left" alt="Syauqi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -77,9 +79,7 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 
 <h3 align="center"> Check 🤷‍♂️, My Github Stats: </h3>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=false" />
-</p>
+
 
 <h3 align="center"> Check 🐱‍🏍, Most Popular Repositories: </h3>
 
