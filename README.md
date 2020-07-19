@@ -80,15 +80,15 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=syauqi&show_icons=true&hide_border=false" />
 </p>
 
-### Check 🐱‍🏍, Most Popular Repositories:
-
+<h3 align="center"> Check 🐱‍🏍, Most Popular Repositories: </h3>
+<p align="center">
 <a href="https://github.com/syauqi/learnify">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=learnify" />
 </a>
 <a href="https://github.com/syauqi/gameina">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=gameina" />
 </a>
-
+</p>
 <br />
 
 
