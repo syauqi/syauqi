@@ -85,6 +85,8 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=gameina" />
 </a>
 
+<br />
+
 <h3 align="center"> Check 🤷‍♂️, My Github Stats: </h3>
 
 <p align="center">
