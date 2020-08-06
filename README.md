@@ -49,16 +49,16 @@
 <br />
 <br />
 
-Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid), Organizing my own class organization 👨🏽‍💻 [@Devcode](https://github.com/devcoderpl), and an Pop Punks Fans 👨🏽‍🎶. 
+Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid), Organizing my own class organization 👨🏽‍💻 [@Devcode](https://github.com/devcoderpl), and a content creator 👨‍🎨 [@Descienfy](https://github.com/descienfy)
 
   <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-AU4dJ99ahuI/WcSTNTslcJI/AAAAAAAACIg/jqQTpHui66g8L_Il3eMUXfJywMJ7bowEgCLcBGAs/s400/tired.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently free during this pandemic lmao;
-- 🌱 I’m currently learning Laravel & VueJS; 
+- 👨🏽‍💻 I’m currently designing and developing websites;
+- 🌱 I’m currently learning Laravue ~✨; 
 - 🤔 My interests are with front-end & web designing;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I’m still a highschool boys;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via syaokay@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](#) to get more info.
