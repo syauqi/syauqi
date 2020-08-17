@@ -1,4 +1,4 @@
-### Hey 👋, I'm Syauqi !
+### Hey 👋, I'm Syauqi!
 
 ![Profile views](https://gpvc.arturio.dev/syauqi)
 
