@@ -61,7 +61,7 @@ Hi there, I'm **Syauqi Zaidan Khairan Khalaf**, a **Web Designer** and a **Softw
 - 💼 I’m still a highschool boys;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via syaokay@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](#) to get more info.
+- 📝 See my [LinkedIn](https://www.linkedin.com/in/syaufy/) to get more info.
 
 
 **Languages and Tools:**  
