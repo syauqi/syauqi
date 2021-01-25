@@ -11,4 +11,4 @@ Web Designer & Web Developer located in Indonesia, Creating contents in @syaucad
 - 🌱 I’m currently learning **WordPress** and **React**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Facebook*, **Instagram** and **Youtube** communities
+- 💬 I'm mostly active within the **Facebook** , **Instagram** and **Youtube** communities
