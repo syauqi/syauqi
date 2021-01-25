@@ -2,8 +2,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![TypeScript](https://img.shields.io/badge/PHP-Intermediate-lightgrey)
 
 Web Designer & Web Developer located in Indonesia, Creating design & programming contents in @syaucademy
 
