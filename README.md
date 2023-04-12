@@ -1,4 +1,4 @@
-# Hello, I'm Syauqi 👋🏻
+# Hello, I'm Syauqizaidan Khairan Khalaf 👋🏻
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
