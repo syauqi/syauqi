@@ -1,4 +1,4 @@
-# Hi, I'm Syauqi 👋
+# Hi, I'm Syauqizaidan Khairan Khalaf 👋
 
 I'm a **full-stack engineer with design taste**, based in Ciamis, Indonesia. I build product surfaces end-to-end — schema, API, frontend, motion — but the half people actually *see* is what sets me apart from another backend dev.
 
